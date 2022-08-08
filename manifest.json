@@ -1,0 +1,28 @@
+{
+"name": "Kumpulan Aplikasi Cerdas",
+"short_name": "KA-Cerdas",
+"description": "Aplikasi untuk belajar secara mandiri",
+"lang": "id",
+"dir": "ltr",
+"start_url": "http://kacerdas.blogspot.com",
+"theme_color": "#369",
+"background_color": "#bdf",
+"display": "standalone",
+"orientation": "portrait-primary",
+"version": "2.11",
+"author": "Kurniawan Abu Ismail",
+"icons": [
+{
+"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfwb4a44GQG5bHifHC6jTcNR9A1e--rHbPEdq3GmZzeptaJEOM6NlNHF1N7R-QM_jaR4Bj5TznSXHfRQbgQEPYS5UPBSThS_IKvlqRz6Qo42apB7tBVSz_AfSg81ltffan3G7Qsacfubeht4n8pdu9_fbr40J8ONdnJQd7RYGU4SFEh7Tx2P3LCKCI/s1600/android-chrome-192x192.png",
+"sizes": "192x192",
+"type": "image/png",
+"density": "4.0"
+},
+{
+"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugh0ucGPPN8WA2d9FQ9D-bhphWCEFo-SrOtWKUZEKZ7Q5izaKdTb2mkHQpQJwY1EaIukbMr6eJ3fN5r-Z3skGj3qyLE4ouE89YQS0HkRqG0l2uBqQD--ZWRtXZojfgUSC6u68n19xiZGZnYFfA3leZTQygy_ND5IxERIL0XEAD1KRvjm7d_WrQtQW/s1600/android-chrome-512x512.png",
+"sizes": "512x512",
+"type": "image/png",
+"density": "5.0"
+}
+]
+}
